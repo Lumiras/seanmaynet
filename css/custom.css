@@ -1,0 +1,8 @@
+body {
+    background-image: url(/img/Spiky%20Sphere.jpg);
+    background-size: cover;
+}
+
+.navbar-brand {
+  align: right;
+}
